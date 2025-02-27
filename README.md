@@ -1,13 +1,13 @@
-# ROCSO Event Management - Website
+# COS5 Event Management - Website
 
 ![image](https://github.com/user-attachments/assets/ded1feb8-8966-4fe5-a6ed-e24f78f72f87)
 
 
 ## Overview
-ROCSO is a premier event management company dedicated to creating unforgettable experiences for corporate events, weddings, concerts, and private gatherings. Our website serves as a hub for clients to explore our services, view past events, and get in touch with our team.
+COS5 is a premier event management company dedicated to creating unforgettable experiences for corporate events, weddings, concerts, and private gatherings. Our website serves as a hub for clients to explore our services, view past events, and get in touch with our team.
 
 ## Features
-- **Home Page:** Introduction to ROCSO and our mission.
+- **Home Page:** Introduction to COS5 and our mission.
 - **About Us:** Insight into our company, values, and team.
 - **Services:** Detailed descriptions of event planning services, including corporate events, weddings, social gatherings, and entertainment.
 - **Portfolio:** Showcase of past events with images and testimonials.
@@ -24,11 +24,11 @@ ROCSO is a premier event management company dedicated to creating unforgettable 
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/rocso-event-management.git
+   git clone https://github.com/your-repo/COS5-event-management.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd rocso-event-management
+   cd COS5-event-management
    ```
 3. Install dependencies:
    ```sh
@@ -67,7 +67,7 @@ ROCSO is a premier event management company dedicated to creating unforgettable 
 For any inquiries, reach out to us at:
 - **Email:** dasarirahulpatel.drp@gmail.com
 - **Phone:** +123-456-7890
-- **Website:** [www.rocsoevents.com](https://www.rocsoevents.com)
+- **Website:** [www.COS5events.com](https://www.COS5events.com)
 - **Portfolio:** [rahuldasari.netlify.app](https://rahuldasari.netlify.app/)
 - **Social Media:** Follow us on Instagram, Facebook, and LinkedIn
 
@@ -76,5 +76,5 @@ This project is licensed under the MIT License.
 
 ---
 
-Thank you for visiting ROCSO Event Management! We look forward to making your events extraordinary.
+Thank you for visiting COS5 Event Management! We look forward to making your events extraordinary.
 
