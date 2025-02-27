@@ -1,5 +1,8 @@
 # ROCSO Event Management - Website
 
+![image](https://github.com/user-attachments/assets/ded1feb8-8966-4fe5-a6ed-e24f78f72f87)
+
+
 ## Overview
 ROCSO is a premier event management company dedicated to creating unforgettable experiences for corporate events, weddings, concerts, and private gatherings. Our website serves as a hub for clients to explore our services, view past events, and get in touch with our team.
 
